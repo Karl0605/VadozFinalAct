@@ -3,5 +3,7 @@ print("Hi! I'm Elias this is also my final activity")
 
 
 num = int(input("Enter a Number: "))
-
 print("Number: ", num)
+
+name = str(input("\nEnter Name: "))
+print("Your Name: ", name)
