@@ -7,3 +7,11 @@ print("Number: ", num)
 
 name = str(input("\nEnter Name: "))
 print("Your Name: ", name)
+
+num1 = int(input("Enter 1st Number: "))
+num2 = int(input("Enter 2nd Number: "))
+
+result = num1 + num2
+print("Sum of two numbers is ", result)
+
+#checking experiment!
